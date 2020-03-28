@@ -15,15 +15,3 @@
 ## Результаты
 
 https://github.com/Anna-Filipova/javaqa-homeworks-1.2-Precision/issues/1
-
-## Общие рекомендации
-
-
-
-## Тестирование производилось в следующем окружении:
-
-Windows 7 Ultimate 64-разрядная ОС
-
-Java(TM) SE Development Kit 11.0.6 (64-bit)
-
-IntelliJ IDEA 2019.2.4
